@@ -1,7 +1,7 @@
 ### Discord Activity Helper 1.0 BETA
 > Discord Activity that changes each few seconds.
 
-![DiscordStatus](https://cdn.agamsol.xyz:90/media/DiscordCanary_QhRspWuuFR.gif)
+![DiscordStatus](https://github.com/agamsol/Discord-Activity-Helper/blob/main/src/readme.gif.gif)
 
 #### ⚙️ How do I install?
 - [Click here](https://github.com/agamsol/Discord-Activity-Helper/blob/main/index.zip?raw=true) to download the archive
